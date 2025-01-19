@@ -1,7 +1,7 @@
 ## Скачать APK
 Вы можете скачать APK файл вашего приложения по следующей ссылке:
 
-[Скачать APK](https://github.com/IceSpirit108/puzzle15/raw/main/puzzle15.apk](https://github.com/IceSpirit108/puzzle15/blob/master/app-debug.apk)
+[Скачать APK](https://github.com/IceSpirit108/puzzle15/blob/master/app-debug.apk)
 
 
 Демонстрация
